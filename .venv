@@ -1,0 +1,7 @@
+# ARQUIVO DE CONFIGURAÇÃO SECRETA - NUNCA ENVIAR PARA O GITHUB!
+# OWASP A07:2021 - Falha de Identificação e Autenticação (Credenciais fora do código-fonte)
+SECRET_KEY="9f6ca2b2928a1d9ff29bfc8a7cb41857c8c11bc03b11a1f9f7da00935d031cd5"
+DB_HOST="localhost"
+DB_NAME="lab_db"
+DB_USER="postg_chris"
+DB_PASSWORD="acesso.senha@postgadmin"

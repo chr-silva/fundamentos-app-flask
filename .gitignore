@@ -1,0 +1,12 @@
+ # Variáveis de ambiente secretas
+ .env
+
+ # Ambiente virtual do Python
+ venv/
+
+ # Arquivos Python ignorados
+ __pycache__/
+ *.pyc
+
+ # Arquivos de sistema do Windows
+ Thumbs.db
